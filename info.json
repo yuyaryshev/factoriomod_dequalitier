@@ -1,0 +1,13 @@
+{
+  "name": "Dequalitier",
+  "version": "1.0.0",
+  "title": "Dequalitier",
+  "description": "Dequalitier is a chest that downgrades high quality items to its own quality. How to use: craft dequalitier of, say, rare quality. If you put a legendary item into it, it will convert it to rare item. Putting an item with lower than rare quality won't affect it at all. Also works with modded quality levels.",
+  "author": "thelordodin",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0",
+    "quality >= 2.0.0",
+    "? space-age >= 2.0.0"
+  ]
+}
